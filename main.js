@@ -10,7 +10,7 @@ function dzialaniaLiczbowe(parametr1,parametr2){
         }  else {
             console.log('wynik jest ujemny');}
     if(parametr1*parametr2>0){
-            console.log("Wynik mnożenia wynosi" + " " + (parametr1-parametr2));
+            console.log("Wynik mnożenia wynosi" + " " + (parametr1*parametr2));
         } else {
             console.log('wynik jest ujemny');
 }
